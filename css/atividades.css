@@ -1,0 +1,25 @@
+.atividades {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.cards-atividades {
+    border: 1px dashed #000;
+    text-align: center;
+    padding: 30px;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+.cards-atividades:hover {
+    background-color: #000;
+    color: #FFF;
+    transition: .5s;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}

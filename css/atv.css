@@ -1,0 +1,32 @@
+button {
+    padding: 5px 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #000;
+    cursor: pointer;
+    margin: 15px 0;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 15px 0;
+}
+
+p {
+    text-align: center;
+}
+
+input {
+    text-align: center;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+#span-nome {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 10px;
+}
